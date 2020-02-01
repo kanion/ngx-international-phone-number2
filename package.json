@@ -67,7 +67,7 @@
         "systemjs": "^6.2.0",
         "ts-node": "~8.6.2",
         "tslint": "^5.0.0",
-        "typescript": "~3.7.3",
+        "typescript": "~3.6.0",
         "zone.js": "~0.9.1"
     },
     "engines": {
@@ -75,6 +75,6 @@
     },
     "dependencies": {
         "angular2-text-mask": "^9.0.0",
-        "tsickle": "^0.38.0"
+        "tsickle": "^0.35.0"
     }
 }
